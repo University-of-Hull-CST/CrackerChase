@@ -18,7 +18,7 @@ namespace DemoGame
 
     /// <summary>
     /// Provides a sprite on the screen
-    /// 
+    /// This is the base class for all sprites
     /// </summary>
     class Sprite
     {
